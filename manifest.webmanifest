@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "Taskly — Task Tracker",
+  "short_name": "Taskly",
+  "description": "A simple, focused task tracker.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101411",
+  "theme_color": "#101411",
+  "icons": [
+    {"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
